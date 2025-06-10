@@ -36,7 +36,7 @@ Ogni commento è ben accetto per crescere come analista e perfezionare i progett
 
 Se vuoi metterti in contatto o fornire feedback diretto, sentiti libero di aprire una issue o scrivermi su www.linkedin.com/in/dario-bartiromo-8b4906130.
 
---
+---
 
 
 # ING:
