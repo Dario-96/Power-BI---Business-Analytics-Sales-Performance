@@ -1,3 +1,5 @@
+###ITA###:
+
 # Dashboard Power BI – Analisi Vendite e Prodotti
 
 ## 🧠 Introduzione
@@ -37,7 +39,7 @@ Se vuoi metterti in contatto o fornire feedback diretto, sentiti libero di aprir
 
 
 
-ING:
+###ING###:
 
 # Power BI Dashboard – Sales & Product Analysis
 
